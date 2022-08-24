@@ -1,3 +1,5 @@
+//Usando comando nativo do navegador
+
 const numA = Number(prompt("Digite um número:"));
 
 const numB = Number(prompt("Digite mais um número:"));
